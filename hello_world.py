@@ -1,2 +1,7 @@
 print("Hello world!")
-print("Hello darkness my old friend")
+print("Not another hello world")
+print("No")
+print("More")
+print("Hello")
+print("World")
+print("Please I'm begging you")
